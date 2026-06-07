@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-06-06T05:49:18.117Z",
+  "updatedAt": "2026-06-07T06:17:33.140Z",
   "activeSource": {
     "name": "高天流云 JS",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "elapsedMs": 349,
+    "elapsedMs": 150,
     "siteCount": 298
   },
   "availableSources": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 29
+      "elapsedMs": 28
     },
     {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 167
+      "elapsedMs": 144
     },
     {
       "name": "高天流云 JS",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "elapsedMs": 349
+      "elapsedMs": 150
     },
     {
       "name": "高天流云 FM 0827",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "elapsedMs": 396
+      "elapsedMs": 238
     },
     {
       "name": "高天流云 PG 0825",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "elapsedMs": 485
+      "elapsedMs": 247
     },
     {
       "name": "高天流云 FTY 0826",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "elapsedMs": 576
+      "elapsedMs": 276
     },
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 646
+      "elapsedMs": 390
     },
     {
       "name": "高天流云 0821",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-      "elapsedMs": 668
+      "elapsedMs": 593
     },
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
-      "elapsedMs": 843
+      "elapsedMs": 1088
     }
   ],
   "failedCount": 2
