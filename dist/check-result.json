@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-02T05:20:36.947Z",
+  "updatedAt": "2026-08-03T05:35:16.233Z",
   "results": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 52,
+      "elapsedMs": 32,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -14,23 +14,11 @@
       "size": 6350
     },
     {
-      "name": "FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 192,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 6400
-    },
-    {
       "name": "高天流云 JS",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 284,
+      "elapsedMs": 110,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -38,11 +26,23 @@
       "size": 51621
     },
     {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 186,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 6400
+    },
+    {
       "name": "高天流云 FM 0827",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 286,
+      "elapsedMs": 231,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -54,7 +54,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 297,
+      "elapsedMs": 238,
       "contentType": "text/plain; charset=utf-8",
       "isJson": false,
       "hasSites": false,
@@ -66,7 +66,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 305,
+      "elapsedMs": 252,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -78,7 +78,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 309,
+      "elapsedMs": 261,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -90,7 +90,7 @@
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 635,
+      "elapsedMs": 462,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -98,23 +98,11 @@
       "size": 9886
     },
     {
-      "name": "Jundie Top98",
-      "url": "http://home.jundie.top:81/top98.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 649,
-      "contentType": "application/json",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 16543
-    },
-    {
       "name": "高天流云 0821",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 686,
+      "elapsedMs": 527,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -126,12 +114,24 @@
       "url": "http://tv.nxog.top/m/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1365,
+      "elapsedMs": 1192,
       "contentType": "text/html; charset=UTF-8",
       "isJson": false,
       "hasSites": false,
       "hasLives": false,
-      "size": 37639
+      "size": 37644
+    },
+    {
+      "name": "Jundie Top98",
+      "url": "http://home.jundie.top:81/top98.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 2419,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 16543
     }
   ]
 }
