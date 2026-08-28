@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T12:12:55.445Z",
+  "updatedAt": "2026-08-28T13:38:08.814Z",
   "results": [
     {
       "name": "FreeOK TVBox",
@@ -18,7 +18,7 @@
       "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 94,
+      "elapsedMs": 113,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -30,7 +30,7 @@
       "url": "https://api.freeob.com/box/m.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 241,
+      "elapsedMs": 238,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -42,7 +42,7 @@
       "url": "http://home.jundie.top:81/top98.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 637,
+      "elapsedMs": 1788,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -54,7 +54,7 @@
       "url": "http://tv.nxog.top/m/",
       "ok": false,
       "status": 550,
-      "elapsedMs": 1956,
+      "elapsedMs": 2273,
       "contentType": "",
       "isJson": false,
       "hasSites": false,
