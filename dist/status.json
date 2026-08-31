@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-08-30T07:43:02.870Z",
+  "updatedAt": "2026-08-31T07:57:37.537Z",
   "activeSource": {
-    "name": "Jundie Top98",
-    "url": "http://home.jundie.top:81/top98.json",
-    "elapsedMs": 1036,
-    "siteCount": 24
+    "name": "Pastebin TVBox",
+    "url": "https://pastebin.com/raw/sbPpDm9G",
+    "elapsedMs": 721,
+    "siteCount": 19
   },
   "availableSources": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 27
+      "elapsedMs": 52
     },
     {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 215
-    },
-    {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 686
+      "elapsedMs": 190
     },
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
-      "elapsedMs": 1036
+      "elapsedMs": 652
+    },
+    {
+      "name": "Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "elapsedMs": 721
     }
   ],
   "failedCount": 7
