@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-01T07:03:15.938Z",
+  "updatedAt": "2026-09-02T06:40:58.296Z",
   "results": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 37,
+      "elapsedMs": 15,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -14,23 +14,11 @@
       "size": 7046
     },
     {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 69,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 9886
-    },
-    {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 271,
+      "elapsedMs": 164,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -38,11 +26,23 @@
       "size": 6400
     },
     {
+      "name": "Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 594,
+      "contentType": "text/plain; charset=utf-8",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 9886
+    },
+    {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1054,
+      "elapsedMs": 783,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -54,7 +54,7 @@
       "url": "http://tv.nxog.top/m/",
       "ok": false,
       "status": 550,
-      "elapsedMs": 2473,
+      "elapsedMs": 2179,
       "contentType": "",
       "isJson": false,
       "hasSites": false,
