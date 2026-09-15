@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-09-14T07:25:05.134Z",
+  "updatedAt": "2026-09-15T07:01:30.582Z",
   "activeSource": {
     "name": "高天流云 JS",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "elapsedMs": 147,
+    "elapsedMs": 249,
     "siteCount": 298
   },
   "availableSources": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 36
-    },
-    {
-      "name": "高天流云 JS",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "elapsedMs": 147
+      "elapsedMs": 15
     },
     {
       "name": "FreeOK Box",
       "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 283
+      "elapsedMs": 113
+    },
+    {
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "elapsedMs": 249
     },
     {
       "name": "高天流云 FM 0827",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "elapsedMs": 295
+      "elapsedMs": 264
     },
     {
       "name": "高天流云 FTY 0826",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "elapsedMs": 296
+      "elapsedMs": 286
     },
     {
       "name": "高天流云 PG 0825",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "elapsedMs": 305
+      "elapsedMs": 290
     },
     {
       "name": "Pastebin TVBox",
       "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 670
+      "elapsedMs": 572
     },
     {
       "name": "高天流云 0821",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-      "elapsedMs": 704
+      "elapsedMs": 705
     },
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
-      "elapsedMs": 772
+      "elapsedMs": 1107
     }
   ],
   "failedCount": 2
